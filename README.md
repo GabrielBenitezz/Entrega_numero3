@@ -8,9 +8,7 @@
 
 <p align="left">
 
-* Luciano Benjamín Lezana
-
-* Lucía Roig Seigneur
+* Gabriel Benitez
 
 </p>
 
